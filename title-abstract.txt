@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Diffusion Model Learning Package
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Diffusion models achieved remarkable results in the image generation, while left insufficiently studied in natural language processing (NLP). To fully utilize the strength of diffusion model in NLP and accelerate the research cycle, we introduced Diffusion Model Learning Package (DMLP), a versatile Python library designed for the training, evaluation, and development of text diffusion models. This library focuses on an architecture synthesizing variational autoencoders (VAEs) with diffusion process, which enables text representation, reconstruction, and generation in one model. DMLP comes equipped with pre-defined functions and classes, offering users a package to implement, experiment, and compare customized text diffusion models. By providing a comprehensive toolkit for researchers and practitioners, DMLP aims to catalyze advancements in text generation and representation learning.
